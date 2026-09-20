@@ -1,7 +1,7 @@
 # Data Professional Survey Breakdown - Power BI Dashboard
 
 ## Overview
-An interactive Power BI dashboard analyzing survey responses from 630+ data professionals, exploring salary trends, job satisfaction, and demographics across roles, countries, and education levels. Built to practice the full BI workflow — from raw data to a polished, stakeholder-ready dashboard.
+An interactive Power BI dashboard analyzing survey responses from 630+ data professionals, exploring salary trends, job satisfaction, and demographics across roles, countries, and education levels. Built to practice the full BI workflow from raw data to a polished, stakeholder-ready dashboard.
 
 ## Why I built this
 I wanted hands-on experience with the complete Power BI pipeline: cleaning messy survey data, building a proper data model, writing DAX measures, and designing visuals that actually answer a business question rather than just displaying numbers.
