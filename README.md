@@ -17,7 +17,7 @@ I wanted hands-on experience with the complete Power BI pipeline: cleaning messy
 ## Process
 1. **Data Cleaning (Power Query)** - Fixed data types, removed duplicates and nulls, split/unpivoted multi-select survey columns, and standardized inconsistent free-text entries.
 2. **Data Modeling** - Structured the cleaned data into a model suited for analysis, with relationships supporting cross-filtering across visuals.
-3. **DAX Measures** — Wrote measures for average salary, average age, and satisfaction scores that recalculate dynamically based on active filters (job title, country, gender).
+3. **DAX Measures** - Wrote measures for average salary, average age, and satisfaction scores that recalculate dynamically based on active filters (job title, country, gender).
 4. **Visualization & UX** - Chose visual types deliberately (map for geography, bar charts for category comparison, gauges for satisfaction scores against a scale, donut for category share), applied consistent formatting and a cohesive color theme, and added cross-filtering so clicking any visual updates the rest of the report.
 
 ## Tools
