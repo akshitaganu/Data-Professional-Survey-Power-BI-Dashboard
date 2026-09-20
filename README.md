@@ -21,10 +21,3 @@ I wanted hands-on experience with the complete Power BI pipeline: cleaning messy
 
 ## Tools
 Power BI Desktop · Power Query · DAX
-
-## Note
-This project is based on a guided tutorial (Alex The Analyst's Power BI course) and adapted with my own [measures/visuals/formatting choices — *fill in what you actually changed*] as part of learning Power BI end to end.
-
-## Files
-- `data-professional-survey.pbix` - Power BI project file
-- `screenshots/` - dashboard preview images
